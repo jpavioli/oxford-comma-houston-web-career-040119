@@ -8,5 +8,5 @@ def oxford_comma(array)
     end
     text_array << "and #{array[-1]}"
   end
-  text_arry.join
+  text_array.join
 end
